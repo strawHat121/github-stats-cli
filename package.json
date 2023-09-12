@@ -1,0 +1,11 @@
+{
+  "name": "github-stats-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to view various github stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "strawHat121",
+  "license": "MIT"
+}
